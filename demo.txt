@@ -1,0 +1,12 @@
+Region	Position	Strand	Ref	Edited
+chr9	94178843	+	A	G
+chr5	143225441	+	A	G
+chr4	2970944	+	A	G
+chr16	29834400	+	A	G
+chr17	78160763	+	A	G
+chr16	56940406	+	A	G
+chr13	30358182	-	A	G
+chr5	149410136	+	A	G
+chr21	29581360	-	A	G
+chr1	45697906	-	A	G
+chr1	39459245	+	A	G
